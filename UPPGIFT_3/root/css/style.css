@@ -1,0 +1,17 @@
+body{background-color: #ffeebe;}
+h1{text-align: center; color: rgb(45, 80, 25);}
+img{margin-left: 50px; margin-top: ;}
+p3{color: rgb(0, 0, 0);}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #2196F3;
+    padding: 10px;
+  }
+  
+
+
+
+
+
